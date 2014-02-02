@@ -125,6 +125,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## Games
 
+- [Dogefights](http://dogefights.com/) <--Video Game Tournaments
 - [DogeCade](http://dogecade.com/)
 - [Such Gamble](http://suchgamble.pw/)
 - [Dogespin](http://dogespin.l8.lv/)
